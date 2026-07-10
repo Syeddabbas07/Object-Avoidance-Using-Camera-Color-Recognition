@@ -30,23 +30,6 @@ This project strengthened my understanding of robotics, computer vision, algorit
 
 ---
 
-## Project Structure
-
-```
-Object-Avoidance-Robot/
-│
-├── controllers/
-│   └── robot_controller.py
-│
-├── worlds/
-│   └── obstacle_world.wbt
-│
-├── README.md
-└── assets/
-```
-
----
-
 ## How It Works
 
 1. The robot captures images using its onboard camera.
